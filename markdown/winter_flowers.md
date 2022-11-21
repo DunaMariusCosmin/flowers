@@ -6,7 +6,7 @@ Some of the flowers blooming in winter are: Acashia, Alstromeria, Amaryllis, Car
 Cyclamen, Evergreens, <a hef="gerbera">Gerbera</a> Daisy, Ginger, Helleborus, Holly berry, Lily, Asiatic Lily, Casa Blanca Lily, Narcissus, Orchid, Pansy, Pepperberry, Phlox, Protea, Queen Ann's Lace, Roses, Star of Bethlehem, Statice. 
 
 ## Gerbera {#gerbera}
-*From Wikipedia, the free encyclopedia.*
+*From [Wikipedia](https://www.wikipedia.org/), the free encyclopedia.*
 
 Gerbera is a genus of ornamental plants from the sunflower family (**Asteraceae**). It was named in honor of the German naturalist Traugott Gerber.
 
