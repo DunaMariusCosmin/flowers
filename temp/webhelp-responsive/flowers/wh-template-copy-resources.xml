@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project basedir="D:\Oxygen25\frameworks\dita\DITA-OT3.x\plugins\com.oxygenxml.webhelp.responsive\templates\blue" name="Copy template resources" default="copy-template-resources">
+    <target name="copy-template-resources">
+        <mkdir dir="D:\projectsEclipse\eXml\samples\dita\flowers\out\webhelp-responsive\flowers\oxygen-webhelp\template"/>
+        <copy todir="D:\projectsEclipse\eXml\samples\dita\flowers\out\webhelp-responsive\flowers\oxygen-webhelp\template" overwrite="yes" failonerror="yes" verbose="yes">
+            <fileset dir=".">
+                <include name="blue.css"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="notes.css"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="resources/**/*"/>
+                <exclude name="resources/**/*.svn"/>
+                <exclude name="resources/**/*.git"/>
+            </fileset>
+        </copy>
+    </target>
+</project>

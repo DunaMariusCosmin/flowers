@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/projects/eXml/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/projects/eXml/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/projects/eXml/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/projects/eXml/samples/dita/flowers/flowers.ditamap"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Growing Flowers</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+  <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Growing Flowers</title>
+  <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">With just a little bit of care and preparation, any flower garden can be a vibrantly         colored environment.</shortdesc><data class="- topic/data " name="wh-tile">
+        <data class="- topic/data " name="hide" value="yes"/>
+      </data></topicmeta></topicref>
+  <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="care"><resourceid appid="care" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Care and Preparation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When caring for your flower garden you want to feed your plants properly, control         pests and weeds.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="prunning"><resourceid appid="prunning" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Pruning</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="gardenPreparation"><resourceid appid="gardenPreparation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Garden Preparation</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+  <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="index"><resourceid appid="index" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Flowers by Season</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Flowers and seasons are intimately bound to each other. Most of the flowers are     season-specific.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="springFlowers"><resourceid appid="springFlowers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Spring Flowers</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="iris"><resourceid appid="iris" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Iris</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="snowdrop"><resourceid appid="snowdrop" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Snowdrop</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="summerFlowers"><resourceid appid="summerFlowers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Summer Flowers</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_15" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="gardenia"><resourceid appid="gardenia" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Gardenia</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="lilac"><resourceid appid="lilac" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Lilac</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="autumnFlowers"><resourceid appid="autumnFlowers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Autumn Flowers</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_22" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="chrysanthemum"><resourceid appid="chrysanthemum" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Chrysanthemum</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="salvia"><resourceid appid="salvia" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Salvia</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_24" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="winterFlowers"><resourceid appid="winterFlowers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Winter Flowers</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_25" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="gerbera"><resourceid appid="gerbera" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">Gerbera</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref>
+  <oxy:oxy-range-start id="sc_1" hr_id="1"/><oxy:oxy-comment href="#sc_1" hr_id="1"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>We should review the list of glossary terms. I think there are many technical terms in the documentation that need to be addressed.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>11:53:08</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment>
+  <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Glossary"><topicmeta class="- map/topicmeta " xtrc="topicmeta:2;35:16" xtrf="file:/C:/projects/eXml/samples/dita/flowers/flowers.ditamap"><navtitle class="- topic/navtitle " href="#d7e161">Glossary</navtitle></topicmeta><oxy:oxy-range-end hr_id="1"/><topicref class="- map/topicref " href="#unique_9" keys="genus" navtitle="Genus" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.genus"><resourceid appid="flowers.genus" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Genus</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" keys="pollination" navtitle="Pollination" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.pollination"><resourceid appid="flowers.pollination" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Pollination</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" keys="sepal" navtitle="Sepal" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.sepal"><resourceid appid="flowers.sepal" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Sepal</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" keys="rhizome" navtitle="Rhizome" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.rhizome"><resourceid appid="flowers.rhizome" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Rhizome</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" keys="bulb" navtitle="Bulb" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.bulb"><resourceid appid="flowers.bulb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Bulb</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" keys="cultivar" navtitle="Cultivar" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.cultivar"><resourceid appid="flowers.cultivar" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Cultivar</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" keys="perennial" navtitle="Perennial" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.perennial"><resourceid appid="flowers.perennial" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Perennial</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" keys="panicle" navtitle="Panicle" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="flowers.panicle"><resourceid appid="flowers.panicle" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Panicle</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+  <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_26" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="copyright"><resourceid appid="copyright" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Copyright</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Legal-related information.</shortdesc><data class="- topic/data " name="wh-tile">
+        <data class="- topic/data " name="hide" value="yes"/>
+      </data></topicmeta></topicref>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d29e1543" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic " id="unique_1" nd:nd-id="introduction" oid="introduction">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fintroduction.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Introduction</title>
+    <shortdesc class="- topic/shortdesc ">With just a little bit of care and preparation, any flower garden can be a vibrantly
+        colored environment.</shortdesc><prolog class="- topic/prolog "><data class="- topic/data " name="wh-tile">
+        <data class="- topic/data " name="hide" value="yes"/>
+      </data></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">With just a little bit of care and preparation, any flower garden can be a vibrantly
+            colored environment. Flowers can be selected for specific blooming seasons, colors and
+            shapes. Both annual and <xref class="- topic/xref " href="#unique_2" keyref="perennial" type="glossentry"><?ditaot usertext?>perennial</xref>
+            flower gardens can be planted depending on climate and specific needs.</p>
+    </body> 
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic " id="unique_3" nd:nd-id="care" oid="care">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fcare.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Care and Preparation</title>
+    <shortdesc class="- topic/shortdesc ">When caring for your flower garden you want to feed your plants properly, control
+        pests and weeds.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">When caring for your flower garden you want to feed your plants properly, control pests
+            and weeds. Good soil is a must to successful gardening, landscaping, and healthy
+            flowers. You have to
+            <opentopic-index:index.entry value="tasks" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">tasks</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-880871828" value="tasks:" class="- index/refid " id="d29e278"/><opentopic-index:index.entry value="preparation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">preparation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2022612753" value="tasks:preparation:" class="- index/refid " id="d29e282"/></opentopic-index:index.entry></opentopic-index:index.entry>balance the soil structure
+            with nutrients and regulate the pH to cover your plants'
+            needs.<oxy:oxy-range-start id="sc_2" hr_id="2"/><oxy:oxy-comment href="#sc_2" hr_id="2"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>Let's add information about fertilizers.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:17:02</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-range-start id="sc_3" hr_id="3"/><oxy:oxy-comment href="#sc_3" hr_id="3"><oxy:oxy-author>John</oxy:oxy-author><oxy:oxy-comment-text>We must include information about fertilizers impact to the environment.</oxy:oxy-comment-text><oxy:oxy-comment-id>1</oxy:oxy-comment-id><oxy:oxy-mid>1</oxy:oxy-mid><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:18:14</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>
+            And above all, remember that many flower gardens fail because they just don't get enough
+            of your attention.</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="2"/><oxy:oxy-range-end hr_id="3"/></p>
+        <p class="- topic/p ">
+            <table class="- topic/table " frame="none" id="d29e292">
+                <title class="- topic/title ">Flowers</title>
+                <tgroup class="- topic/tgroup " cols="3">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="171.0pt" xtrc="colspec:1;20:74" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita" style="width:171.0pt;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="99.0pt" xtrc="colspec:2;21:73" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita" style="width:99.0pt;"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="200px" xtrc="colspec:3;22:77" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita" style="width:200px;"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;25:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Flower</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;26:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Type</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;27:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Soil</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;32:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Chrysanthemum</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;33:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;34:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">well drained</entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;37:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Gardenia</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;38:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;39:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">acidic</entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;42:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Gerbera</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;43:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">annual</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;44:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">sandy, well-drained</entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;47:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Iris</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;48:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;49:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">slightly acidic</entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;52:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Lilac</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;53:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;54:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">alkaline</entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;57:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Salvia</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:20;58:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:21;59:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">average</entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:22;62:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">Snowdrop</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:23;63:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:24;64:36" xtrf="file:/C:/projects/eXml/samples/dita/flowers/topics/care.dita">humus-rich</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+<task class="- topic/topic task/task " id="unique_4" nd:nd-id="prunning" oid="prunning">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftasks%2Fpruning.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Pruning</title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Pruning</b> is the
+                    process<opentopic-index:index.entry value="tasks" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">tasks</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-880871828" value="tasks:" class="- index/refid " id="d29e428"/><opentopic-index:index.entry value="pruning" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">pruning</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1946661473" value="tasks:pruning:" class="- index/refid " id="d29e432"/></opentopic-index:index.entry></opentopic-index:index.entry> of removing
+                certain above-ground elements from a plant; in landscaping this process usually
+                involves <opentopic-index:index.entry value="tasks" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">tasks</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-880871828" value="tasks:" class="- index/refid " id="d29e437"/><opentopic-index:index.entry value="preparation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">preparation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2022612753" value="tasks:preparation:" class="- index/refid " id="d29e441"/></opentopic-index:index.entry></opentopic-index:index.entry>removal of
+                diseased, non-productive, or otherwise unwanted portions from a plant. In nature,
+                certain meteorological conditions such as wind, snow or seawater mist can conduct a
+                when for natural pruning process. The purpose of anthropomorphic pruning is to shape
+                the plant by controlling or directing plant growth, to maintain the health of the
+                plant, or to increase the yield or quality of flowers and fruits.</p>
+            <p class="- topic/p ">In general the smaller the wound (smaller the branch that is cut) the less harm to
+                the tree. It is therefore typically better to formative prune the tree when juvenile
+                than try to cut off large branches on a mature tree.</p>
+            <p class="- topic/p "><oxy:oxy-range-start id="sc_4" hr_id="4"/><oxy:oxy-comment href="#sc_4" hr_id="4"><oxy:oxy-author>John</oxy:oxy-author><oxy:oxy-comment-text>A list of tools required for prunning should be also provided to the reader (like: 
+Rope Saws, Pole Prunner and Lopper,  Folding Prunner, Portable Buck Saws).</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>11:07:53</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>Follow
+                these simple steps:</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="4"/></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Begin by cutting out all the dead branches.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove all tangled or crossed over branches. This allows air to circulate and
+                    reduces bug and fungi infestation. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Take your time! Work comfortably and do not make shortcuts when cutting stems.
+                    Use good quality, sharp tools.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Clean up the area.
+                    <oxy:oxy-range-start id="sc_5" hr_id="5"/><oxy:oxy-comment href="#sc_5" hr_id="5"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>Burning the pest infested branches should be done under supervision. Please mention this.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>11:08:31</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>Burn
+                    all pest infested branches</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="5"/>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" nd:nd-id="gardenPreparation" oid="gardenPreparation">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftasks%2FgardenPreparation.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Garden Preparation</title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">An appreciation of the conditions under which bulbs grow in nature is of considerable
+                help in understanding their needs in
+                            cultivation<opentopic-index:index.entry value="general" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">general</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1810371666" value="general:" class="- index/refid " id="d29e499"/><opentopic-index:index.entry value="care" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">care</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2006103607" value="general:care:" class="- index/refid " id="d29e503"/><opentopic-index:index.entry value="cultivation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">cultivation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-14441853" value="general:care:cultivation:" class="- index/refid " id="d29e507"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>,
+                but is by no means all-sufficient. When plants are grown away from their native
+                homes-and perhaps are accommodated in pots indoors-they may respond to quite
+                different soils, temperatures, moisture conditions, etc., than those to which they
+                are subjected in the
+                    wild.<opentopic-index:index.entry value="tasks" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">tasks</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-880871828" value="tasks:" class="- index/refid " id="d29e512"/><opentopic-index:index.entry value="preparation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">preparation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2022612753" value="tasks:preparation:" class="- index/refid " id="d29e516"/></opentopic-index:index.entry></opentopic-index:index.entry>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Handle bulbs carefully. Any scarred or punctured bulb is more susceptible to
+                    decay or
+                        infestation.<opentopic-index:index.entry value="general" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">general</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1810371666" value="general:" class="- index/refid " id="d29e529"/><opentopic-index:index.entry value="planting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">planting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-202786447" value="general:planting:" class="- index/refid " id="d29e533"/></opentopic-index:index.entry></opentopic-index:index.entry></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Make sure that the <b class="+ topic/ph hi-d/b ">soil</b> is the <i class="+ topic/ph hi-d/i ">proper</i> one. This might be hard to
+                    achieve, but generally an earth midway between sand and clay and containing a
+                    generous measure of organic matter is what most plants want.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">All plants need <b class="+ topic/ph hi-d/b ">watering</b>, but you should also provide good drainage. An
+                    overabundance of water around bulbs during the dormant period is particularly
+                    harmful. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Plants respond to fertile soil, but <b class="+ topic/ph hi-d/b ">fertilizers</b> must not be used
+                    carelessly. Improper dosage can do more harm than good.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">When dealing with <b class="+ topic/ph hi-d/b ">insects</b> and <b class="+ topic/ph hi-d/b ">diseases</b>, proper diagnosis of the
+                    trouble is of primary importance.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic " id="unique_6" nd:nd-id="index" oid="index">
+  <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Findex.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Flowers by Season</title>
+  <shortdesc class="- topic/shortdesc ">Flowers and seasons are intimately bound to each other. Most of the flowers are
+    season-specific.</shortdesc>
+  <body class="- topic/body ">
+    <p class="- topic/p ">The various climatic changes that occur in cyclic pattern are termed as 'Seasons'. There
+      are four general seasons occurring on Earth - Spring, Summer, Autumn and Winter.</p>
+    <p class="- topic/p ">Flowers and seasons are intimately bound to each other. Most of the flowers are
+      season-specific. However, some flowers are found throughout the year, not particularly
+      affected by changing seasons.</p>
+  </body>
+<concept class="- topic/topic concept/concept " id="unique_7" nd:nd-id="springFlowers" oid="springFlowers">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FspringFlowers.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Spring Flowers</title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Spring Time, the time of growth and renewal of new plant and animal life. Spring comes at
+            different times in the North and South Hemispheres. Spring time in the Northern
+            hemisphere is between March - May, and between September - November in the Southern
+            hemisphere. Most flowering plants bloom during spring time. Therefore, flowers that
+            bloom only during spring, Spring Flowers, bloom at different times in the two
+            hemispheres. </p>
+        <p class="- topic/p ">Some of the flowers blooming in Spring are: Agapanthus, Amaryllis,
+            Anemone, Apple blossom, Bird of Paradise, Brodea, Calla lily, Cherry Blossom, Corn
+            flower, Cosmose, Dahlia, Delphinium, Delwood, Forsythia, Freesia, Gardenia, Heather,
+            Helleborus, Hollyhock, Hyacinth, Larkspur, Casa Blanca Lily, Gloriosa Lily, Stargazer,
+            Liatrus, Lilac, Lisianthus, Narcissus, Orchid, Peach blossom, Peony, Phlox, Poppy,
+            Protea, Pussy willow, Ranunculus, Rose, Seeded Eucalyptus, Solidago, Statice,
+            Stephanotis, Stock, Sweet Pea, Tulip, Viburnum, Wax flower, Zinnia. </p>
+    </conbody>
+<topic class="- topic/topic " id="unique_8" nd:nd-id="iris" oid="iris">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Firis.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Iris</title>
+    <body class="- topic/body ">
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Iris</b><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e628"/><opentopic-index:index.entry value="spring" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">spring</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1226130379" value="flowers:spring:" class="- index/refid " id="d29e632"/><opentopic-index:index.entry value="iris" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">iris</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-786337380" value="flowers:spring:iris:" class="- index/refid " id="d29e636"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>
+            is a <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref> of
+            between 200-300 species of flowering plants with showy flowers. It takes its name from
+            the Greek word for a <i class="+ topic/ph hi-d/i ">rainbow</i>, referring to the wide variety of flower colors
+            found among the many species. As well as being the scientific name, iris is also very
+            widely used as a common name; for one thing, it refers to all <b class="+ topic/ph hi-d/b ">Iris</b> species, but
+            some plants called thus belong to closely related genera. In North America, a common
+            name for irises is <b class="+ topic/ph hi-d/b ">flags</b>, while the subgenus <b class="+ topic/ph hi-d/b ">Scorpiris</b> is widely known as
+                <b class="+ topic/ph hi-d/b ">junos</b>, particularly in horticulture.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Iris_sanguinea.jpg" placement="inline" width="125" height="167" scale="50"/></p>
+        <p class="- topic/p ">The <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref> is widely
+            distributed throughout the north temperate zone. Their habitats are considerably varied,
+            ranging from cold and mountain regions to the grassy slopes, meadowlands and riverbanks
+            of Europe, the Middle East and northern Africa, Asia and across North America.</p>
+        <p class="- topic/p ">The inflorescences are fan-shaped and contain one or more symmetrical six-lobed flowers.
+            These grow on a pedicel or lack a footstalk. The three <xref class="- topic/xref " href="#unique_10" keyref="sepal" type="glossentry"><?ditaot usertext?>sepals</xref>, which are
+            spreading or droop downwards, are referred to as "falls". They expand from their narrow
+            base, which in some of the rhizomatous irises has a "beard" (a tuft of short upright
+            extensions growing in its midline), into a broader expanded portion ("limb"), often
+            adorned with veining, lines or dots. The three, sometimes reduced, petals stand upright,
+            partly behind the sepal bases. They are called "standards". Some smaller iris species
+            have all six lobes pointing straight outwards, but generally, limb and standards differ
+            markedly in appearance. They are united at their base into a floral tube that lies above
+            the ovary. The styles divide towards the apex into petaloid branches; this is
+            significant in <xref class="- topic/xref " href="#unique_11" keyref="pollination" type="glossentry"><?ditaot usertext?>pollination</xref>.</p>
+        <p class="- topic/p ">The iris flower is of special interest as an example of the relation between flowering
+            plants and pollinating insects. The shape of the flower and the position of the
+            pollen-receiving and stigmatic surfaces on the outer petals form a landing-stage for a
+            flying insect, which in probing the perianth for nectar, will first come in contact of
+            perianth, then with the stigmatic stamens in one whorled surface which is borne on an
+            ovary formed of three carpels. The shelf-like transverse projection on the inner whorled
+            underside of the stamens is beneath the over-arching style arm below the stigma, so that
+            the insect comes in contact with its pollen-covered surface only after passing the
+            stigma; in backing out of the flower it will come in contact only with the non-receptive
+            lower face of the stigma. Thus, an insect bearing pollen from one flower will, in
+            entering a second, deposit the pollen on the stigma; in backing out of a flower, the
+            pollen which it bears will not be rubbed off on the stigma of the same flower. </p>
+    </body>
+    <topic class="- topic/topic " id="unique_12" nd:nd-id="use" oid="use">
+        <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Firis.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Use</title>
+        <body class="- topic/body ">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Irises</b> are extensively grown as ornamental plants in home and botanical
+                gardens. <i class="+ topic/ph hi-d/i ">Presby Memorial Iris Gardens</i> in New Jersey, for example, is a living
+                iris museum with over 10,000 plants, while in Europe the most famous iris garden is
+                arguably the <i class="+ topic/ph hi-d/i ">Giardino dell'Iris</i> in Florence (Italy) which every year hosts
+                one of the most famous iris breeders' competitions in the world.</p>
+            <p class="- topic/p ">Some <xref class="- topic/xref " href="#unique_13" keyref="rhizome" type="glossentry"><?ditaot usertext?>rhizomes</xref>
+                are traded as orris root and are used in perfume and medicine, though more common in
+                ancient times than today. Today <b class="+ topic/ph hi-d/b ">Iris</b> essential oil (absolute) from flowers
+                are sometimes used in aromatherapy as sedative medicines. The dried rhizomes are
+                also given whole to babies to help in teething. Some gin brands use orris root and
+                sometimes iris flowers for flavor and color. </p>
+        </body>
+        <related-links class="- topic/related-links ">
+            <link class="- topic/link " href="#unique_14" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Snowdrop</linktext></link>
+            <link class="- topic/link " href="#unique_15" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Gardenia</linktext></link>
+            <link class="- topic/link " href="#unique_16" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Lilac</linktext></link>
+        </related-links>
+    </topic>
+</topic><topic class="- topic/topic " id="unique_14" nd:nd-id="snowdrop" oid="snowdrop">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Fsnowdrop.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Snowdrop</title>
+    <body class="- topic/body ">
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Snowdrop</b><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e750"/><opentopic-index:index.entry value="spring" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">spring</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1226130379" value="flowers:spring:" class="- index/refid " id="d29e754"/><opentopic-index:index.entry value="snowdrop" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">snowdrop</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid192743453" value="flowers:spring:snowdrop:" class="- index/refid " id="d29e758"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>
+            is the common name for members of the <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref>
+            <b class="+ topic/ph hi-d/b ">Galanthus</b>, a small genus of about 20 species in the family <b class="+ topic/ph hi-d/b ">Amaryllidaceae</b>;
+            snowdrops are among the first <xref class="- topic/xref " href="#unique_17" keyref="bulb" type="glossentry"><?ditaot usertext?>bulbs</xref> to bloom in
+            spring, although certain species
+            <oxy:oxy-range-start id="sc_6" hr_id="6"/><oxy:oxy-delete-hl>flower</oxy:oxy-delete-hl><oxy:oxy-range-end hr_id="6"/><oxy:oxy-delete href="#sc_6" hr_id="6"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-content>flower</oxy:oxy-content><oxy:oxy-date>2019/02/18</oxy:oxy-date><oxy:oxy-hour>12:19:36</oxy:oxy-hour><oxy:oxy-tz>+02:00</oxy:oxy-tz></oxy:oxy-delete><oxy:oxy-range-start id="sc_7" hr_id="7"/><oxy:oxy-insert href="#sc_7" hr_id="7"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-content>insert</oxy:oxy-content><oxy:oxy-date>2019/02/18</oxy:oxy-date><oxy:oxy-hour>12:19:37</oxy:oxy-hour><oxy:oxy-tz>+02:00</oxy:oxy-tz></oxy:oxy-insert><oxy:oxy-insert-hl>bloom</oxy:oxy-insert-hl><oxy:oxy-range-end hr_id="7"/>
+            in late autumn and winter.</p>
+        <image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Snowdrop.jpg" placement="inline" width="188" height="188" scale="75"/>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Galanthus nivalis</b> is the best-known and most widespread representative of the
+            genus <b class="+ topic/ph hi-d/b ">Galanthus</b>. It is native to a large area of Europe, stretching from the
+            Pyrenees in the west, through France and Germany to Poland in the north, Italy, Northern
+            Greece and European Turkey. It has been introduced and is widely naturalised elsewhere.
+            Although it is often thought of as a British native wild flower, or to have been brought
+            to the British Isles by the Romans, it was probably introduced around the early
+            sixteenth century.</p>
+        <p class="- topic/p ">All species of <b class="+ topic/ph hi-d/b ">Galanthus</b> are <xref class="- topic/xref " href="#unique_2" keyref="perennial" type="glossentry"><?ditaot usertext?>perennial</xref>, herbaceous plants which grow from bulbs. The flower has no
+            petals: it consists of six tepals, the outer three being larger and more convex than the
+            inner series. An important feature which helps to distinguish between species (and to
+            help to determine the parentage of hybrids) is their "<i class="+ topic/ph hi-d/i ">vernation</i>" (the arrangement
+            of the emerging leaves relative to each other). This can be "<i class="+ topic/ph hi-d/i ">applanate</i>",
+                "<i class="+ topic/ph hi-d/i ">supervolute</i>" or "<i class="+ topic/ph hi-d/i ">explicative</i>". In <i class="+ topic/ph hi-d/i ">applanate vernation</i> the two
+            leaf blades are pressed flat to each other within the bud and as they emerge;
+            explicative leaves are also pressed flat against each other, but the edges of the leaves
+            are folded back or sometimes rolled; in <i class="+ topic/ph hi-d/i ">supervolute</i> plants one leaf is tightly
+            clasped around the other within the bud and generally remains at the point where the
+            leaves emerge from the
+            soil<oxy:oxy-range-start id="sc_8" hr_id="8"/><oxy:oxy-comment href="#sc_8" hr_id="8"><oxy:oxy-author>John</oxy:oxy-author><oxy:oxy-comment-text>We could add a phrase with information about snowdrop propagation.</oxy:oxy-comment-text><oxy:oxy-comment-id>jb4_tkh_vgb</oxy:oxy-comment-id><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:27:17</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz><oxy:oxy-comment href="#sc_9" hr_id="9"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>I will ask Henry to do this.</oxy:oxy-comment-text><oxy:oxy-comment-id>1</oxy:oxy-comment-id><oxy:oxy-comment-parent-id>jb4_tkh_vgb</oxy:oxy-comment-parent-id><oxy:oxy-mid>1</oxy:oxy-mid><oxy:oxy-date>2019/02/18</oxy:oxy-date><oxy:oxy-hour>12:20:39</oxy:oxy-hour><oxy:oxy-tz>+02:00</oxy:oxy-tz></oxy:oxy-comment></oxy:oxy-comment><oxy:oxy-comment-hl>.</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="8"/></p>
+    </body>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_8" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Iris</linktext></link>
+    </related-links>
+</topic></concept><concept class="- topic/topic concept/concept " id="unique_18" nd:nd-id="summerFlowers" oid="summerFlowers">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FsummerFlowers.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Summer Flowers</title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Summer is the time of hot and warm weather. Floral growth is the best in the summer
+            season. The Northern hemisphere experiences summer during June, July, August, while in
+            Southern hemisphere during December - February.</p>
+        <p class="- topic/p ">Some of the flowers blooming in summer are: Alchemilla, Allium,
+            Alstromeria, Amaranthus, Baby's Breath, Bird of Paradise, Calla lily, Campanula,
+            Carnation, Chrysanthemum, Cockscomb, Cosmos, Dahlia, Delphinium, Dianthus, Didiscus,
+            Euphorbia, Foxglove, Freesia, Gardenia, Genista, Ginger, Gladiolus, Hallaconia, Heather,
+            Hydrangea, Hypericum, Iris, Kangaroo paw, Liatrus, Lilac, Casa Blanca Lily, Gloriosa
+            Lily, Star Gazer, Lisianthus.</p>
+    </conbody>
+<topic class="- topic/topic " id="unique_15" nd:nd-id="gardenia" oid="gardenia">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Fgardenia.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Gardenia</title>
+    <body class="- topic/body ">
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gardenia</b><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e864"/><opentopic-index:index.entry value="summer" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">summer</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1364769385" value="flowers:summer:" class="- index/refid " id="d29e868"/><opentopic-index:index.entry value="gardenia" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">gardenia</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2101316732" value="flowers:summer:gardenia:" class="- index/refid " id="d29e872"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>
+            is a <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref> of about 250 species of flowering
+            plants in the coffee family, <b class="+ topic/ph hi-d/b ">Rubiaceae</b>, native to the tropical and subtropical
+            regions of Africa, southern Asia, Australasia and Oceania. Several species occur on
+            <oxy:oxy-range-start id="sc_10" hr_id="9"/><oxy:oxy-insert href="#sc_10" hr_id="9"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-content>insert</oxy:oxy-content><oxy:oxy-date>2019/02/13</oxy:oxy-date><oxy:oxy-hour>11:57:08</oxy:oxy-hour><oxy:oxy-tz>+00:00</oxy:oxy-tz></oxy:oxy-insert><oxy:oxy-insert-hl>the island of
+            </oxy:oxy-insert-hl><oxy:oxy-range-end hr_id="9"/>Hawaii, where gardenias are known as
+            <i class="+ topic/ph hi-d/i ">na'u</i><oxy:oxy-range-start id="sc_11" hr_id="10"/><oxy:oxy-delete-hl> or &lt;i&gt;nanu&lt;/i&gt;</oxy:oxy-delete-hl><oxy:oxy-range-end hr_id="10"/><oxy:oxy-delete href="#sc_11" hr_id="10"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-content> or &lt;i&gt;nanu&lt;/i&gt;</oxy:oxy-content><oxy:oxy-date>2019/02/13</oxy:oxy-date><oxy:oxy-hour>11:57:32</oxy:oxy-hour><oxy:oxy-tz>+00:00</oxy:oxy-tz></oxy:oxy-delete>.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Gardeniaflower.jpg" placement="inline"/></p>
+        <p class="- topic/p ">The genus was named by
+            <oxy:oxy-range-start id="sc_12" hr_id="11"/><oxy:oxy-comment href="#sc_12" hr_id="11"><oxy:oxy-author>Tom</oxy:oxy-author><oxy:oxy-comment-text>Someone should double-check these facts.</oxy:oxy-comment-text><oxy:oxy-comment-id>hvs_k4x_tgb</oxy:oxy-comment-id><oxy:oxy-date>2019/02/13</oxy:oxy-date><oxy:oxy-hour>11:59:21</oxy:oxy-hour><oxy:oxy-tz>+00:00</oxy:oxy-tz><oxy:oxy-comment href="#sc_13" hr_id="13"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>I will ask John to check this.</oxy:oxy-comment-text><oxy:oxy-comment-id>2</oxy:oxy-comment-id><oxy:oxy-comment-parent-id>hvs_k4x_tgb</oxy:oxy-comment-parent-id><oxy:oxy-mid>2</oxy:oxy-mid><oxy:oxy-date>2019/02/13</oxy:oxy-date><oxy:oxy-hour>12:00:35</oxy:oxy-hour><oxy:oxy-tz>+00:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment href="#sc_14" hr_id="14"><oxy:oxy-author>John</oxy:oxy-author><oxy:oxy-comment-text>I checked the facts and they are correct.</oxy:oxy-comment-text><oxy:oxy-comment-id>1</oxy:oxy-comment-id><oxy:oxy-comment-parent-id>hvs_k4x_tgb</oxy:oxy-comment-parent-id><oxy:oxy-mid>1</oxy:oxy-mid><oxy:oxy-date>2019/02/13</oxy:oxy-date><oxy:oxy-hour>12:00:47</oxy:oxy-hour><oxy:oxy-tz>+00:00</oxy:oxy-tz></oxy:oxy-comment></oxy:oxy-comment><oxy:oxy-comment-hl>Carl
+            Linnaeus after Dr. Alexander Garden (1730-1791), a Scottish-born American
+            naturalist</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="11"/>.</p>
+        <p class="- topic/p ">They are evergreen shrubs and small trees growing to 1–15 metres (3.3–49 ft) tall. The
+            leaves are opposite or in whorls of three or four, 5–50 centimetres (2.0–20 in) long and
+            3–25 centimetres (1.2–9.8 in) broad, dark green and glossy with a leathery texture. The
+            flowers are solitary or in small clusters, white, or pale yellow, with a tubular-based
+            corolla with 5-12 lobes (petals) from 5–12 centimetres (2.0–4.7 in) diameter. Flowering
+            is from about mid-spring to mid-summer and many species are strongly scented.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gardenia</b> plants are prized for the strong sweet scent of their flowers, which can
+            be very large in some species.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gardenias</b> have a reputation for being difficult to grow. Because they originated
+            in warm humid tropical areas, they demand high humidity to thrive. They flourish in
+            acidic soils with good drainage and thrive on [68-74 F temperatures (20-23 C)] during
+            the day and 60 F (15-16 C) in the evening. Potting soils developed especially for
+            gardenias are available.</p>
+        <p class="- topic/p ">In Japan and China, <b class="+ topic/ph hi-d/b ">Gardenia jasminoides</b> is called <i class="+ topic/ph hi-d/i ">Kuchinashi</i> (Japanese)
+            and <i class="+ topic/ph hi-d/i ">Zhi zi</i> (Chinese); the bloom is used as a yellow dye, which is used for
+            clothes and food (including the Korean mung bean jelly called hwangpomuk).</p>
+    </body>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_16" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Lilac</linktext></link>
+    </related-links>
+</topic><topic class="- topic/topic " id="unique_16" nd:nd-id="lilac" oid="lilac">
+ <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Flilac.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Lilac</title>
+ <body class="- topic/body ">
+  <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Lilac</b>
+     (<b class="+ topic/ph hi-d/b ">Syringa</b>)<opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e961"/><opentopic-index:index.entry value="summer" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">summer</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1364769385" value="flowers:summer:" class="- index/refid " id="d29e965"/><opentopic-index:index.entry value="lilac" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">lilac</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1491525870" value="flowers:summer:lilac:" class="- index/refid " id="d29e969"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>
+   is a <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref> of about 20–25
+   species of flowering plants in the olive family (<b class="+ topic/ph hi-d/b ">Oleaceae</b>), native to Europe and Asia.</p>
+  <p class="- topic/p "><image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Lilac.jpg" placement="inline" width="188" height="141" scale="75"/></p>
+  <p class="- topic/p ">They are deciduous shrubs or small trees, ranging in size from 2–10 m tall, with stems up to
+   20–30 cm diameter. The leaves are opposite (occasionally in whorls of three) in arrangement, and
+   their shape is simple and heart-shaped to broad lanceolate in most species, but pinnate in a few
+   species (e.g. <b class="+ topic/ph hi-d/b ">S. protolaciniata</b>, <b class="+ topic/ph hi-d/b ">S. pinnatifolia</b>). The flowers are produced in
+   spring, each flower being 5–10 mm in diameter with a four-lobed corolla, the corolla tube narrow,
+   5–20 mm long. The usual flower colour is a shade of purple (often a light purple or lilac), but
+   white and pale pink are also found. The flowers grow in large <xref class="- topic/xref " href="#unique_19" keyref="panicle" type="glossentry"><?ditaot usertext?>panicle</xref>, and in several species
+   have a strong fragrance. Flowering varies between mid spring to early summer, depending on the
+   species. The fruit is a dry, brown capsule, splitting in two at maturity to release the two
+   winged seeds.</p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Lilacs</b> are popular shrubs in parks and gardens throughout the temperate zone. In
+   addition to the species listed above, several hybrids and numerous <xref class="- topic/xref " href="#unique_20" keyref="cultivar" type="glossentry"><?ditaot usertext?>cultivars</xref> have been developed. The
+   term <b class="+ topic/ph hi-d/b ">French lilac</b> is often used to refer to modern double-flowered cultivars, thanks to
+   the work of prolific breeder Victor Lemoine.</p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b "><oxy:oxy-range-start id="sc_15" hr_id="12"/><oxy:oxy-comment href="#sc_15" hr_id="12"><oxy:oxy-author>John</oxy:oxy-author><oxy:oxy-comment-text>What kind of growing conditions do lilacs need?</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>11:46:41</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>Lilacs</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="12"/></b>
+   flower on old wood, and produce more flowers if unpruned. If pruned, the plant responds by
+   producing fast-growing young vegetative growth with no flowers, in an attempt to restore the
+   removed branches; a pruned lilac often produces few or no flowers for one to five or more years,
+   before the new growth matures sufficiently to start flowering. Unpruned lilacs flower reliably
+   every year. Despite this, a common fallacy holds that lilacs should be pruned regularly. If
+   pruning is required, it should be done right after flowering is finished, before next year's
+   flower buds are formed. Lilacs generally grow better in slightly alkaline soil. The wood of lilac
+   is close-grained, diffuse-porous, extremely hard and one of the densest in Europe. The sapwood is
+   typically cream-coloured and the heartwood has various shades of brown and purple. Lilac wood has
+   traditionally been used for engraving, musical instruments, knife handles etc. When drying, the
+   wood has a tendency to be encurved as a twisted material, and to split into narrow sticks. </p>
+ </body>
+ <related-links class="- topic/related-links ">
+  <link class="- topic/link " href="#unique_15" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Gardenia</linktext></link>
+ </related-links>
+</topic></concept><concept class="- topic/topic concept/concept " id="unique_21" nd:nd-id="autumnFlowers" oid="autumnFlowers">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FautumnFlowers.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Autumn Flowers</title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Autumn is the season of the primary harvest. Autumn falls during September - November in
+            the Northern hemisphere, and during March - June in the Southern hemisphere. Crops are
+            harvested during Autumn. Leaves change color are at their beautiful best.</p>
+        <p class="- topic/p ">Some of the flowers blooming in
+                autumn<opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e1039"/><opentopic-index:index.entry value="autumn" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">autumn</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1718684446" value="flowers:autumn:" class="- index/refid " id="d29e1043"/></opentopic-index:index.entry></opentopic-index:index.entry> are: Acashia,
+            Allium, Alstromeria, Amaranthus, Anemone, Baby's Breath, Bittersweet, Carnation, China
+            berry, Chrysanthemum, Cockscomb, Cosmos, Echinops, Freesia, Gerbera Daisy, Gladiolus,
+            Hypericum, Iris, Juniper, Kangaroo paw, Kalancheo, Liatrus, Lily, Asiatic, Lily,
+            Gloriosa, Misty Blue, Orchid, Pepper berry, Protea, Queen Ann's Lace, Quince, Rover,
+            Roses, Rowen berry, Salvia, Solidago, Statice, Star of Bethlehem, Sunflower, Yarrow,
+            Zinnia.</p>
+    </conbody>
+<topic class="- topic/topic " id="unique_22" nd:nd-id="chrysanthemum" oid="chrysanthemum">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Fchrysanthemum.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Chrysanthemum</title>
+    <body class="- topic/body ">
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Chrysanthemums</b><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e1064"/><opentopic-index:index.entry value="autumn" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">autumn</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1718684446" value="flowers:autumn:" class="- index/refid " id="d29e1068"/><opentopic-index:index.entry value="chrysanthemums" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">chrysanthemums</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1213009069" value="flowers:autumn:chrysanthemums:" class="- index/refid " id="d29e1072"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>,
+            often called 'mums', are a <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref> (<b class="+ topic/ph hi-d/b ">Chrysanthemum</b>) of about 30 species of <xref class="- topic/xref " href="#unique_2" keyref="perennial" type="glossentry"><?ditaot usertext?>perennial</xref> flowering
+            plants in the family Asteraceae, native to Asia and northeastern Europe.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Chrysanthemums.jpg" placement="inline" width="360" height="264" scale="200"/></p>
+        <p class="- topic/p ">The genus once included many more species, but was split several decades ago into several
+            genera; the naming of the genera has been contentious, but a ruling of the International
+            Code of Botanical Nomenclature in 1999 resulted in the defining species of the genus
+            being changed to <b class="+ topic/ph hi-d/b ">Chrysanthemum indicum</b>, thereby restoring the economically
+            important florist's chrysanthemum to the genus <b class="+ topic/ph hi-d/b ">Chrysanthemum</b>. These species were,
+            after the splitting of the genus but before the ICBN ruling, commonly treated under the
+            genus name <b class="+ topic/ph hi-d/b ">Dendranthema</b>.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Chrysanthemums</b> were cultivated in China as a flowering herb as far back as the
+            15th century BC. An ancient Chinese city was named Ju-Xian, meaning "<i class="+ topic/ph hi-d/i ">chrysanthemum
+                city</i>". The plant is particularly significant during the Double Ninth Festival.
+            The flower was introduced into Japan probably in the 8th century AD, and the Emperor
+            adopted the flower as his official seal. There is a "<i class="+ topic/ph hi-d/i ">Festival of Happiness</i>" in
+            Japan that celebrates the flower.</p>
+        <p class="- topic/p ">The flower was brought to Europe in the 17th century. Linnaeus named it from the Greek
+            word <i class="+ topic/ph hi-d/i ">chrysous</i>, golden (the colour of the original flowers), and -<i class="+ topic/ph hi-d/i ">anthemon</i>,
+            meaning flower.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Chrysanthemums</b> are broken into two basic groups, Garden Hardy and Exhibition.
+            Garden hardy mums are perennials capable of being wintered over in the ground in most
+            northern latitudes. Exhibition varieties are not usually as sturdy. Garden hardies are
+            defined by their ability to produce an abundance of small blooms with little if any
+            mechanical assistance (ie. staking) and withstanding wind and rain. Exhibition varieties
+            on the other hand require staking, over-wintering in a relatively dry cool environment,
+            sometimes with the addition of night lights. </p>
+    </body>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_23" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Salvia</linktext></link>
+    </related-links>
+</topic><topic class="- topic/topic " id="unique_23" nd:nd-id="salvia" oid="salvia">
+  <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Fsalvia.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Salvia</title>
+  <body class="- topic/body ">
+    <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Salvia</b><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e1153"/><opentopic-index:index.entry value="autumn" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">autumn</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1718684446" value="flowers:autumn:" class="- index/refid " id="d29e1157"/><opentopic-index:index.entry value="salvia" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">salvia</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-312737880" value="flowers:autumn:salvia:" class="- index/refid " id="d29e1161"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>
+      is the largest <xref class="- topic/xref " href="#unique_9" keyref="genus" type="glossentry"><?ditaot usertext?>genus</xref> of plants in the mint
+      family,
+        <b class="+ topic/ph hi-d/b "><oxy:oxy-range-start id="sc_16" hr_id="13"/><oxy:oxy-comment href="#sc_16" hr_id="13"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>The correct term is Lamiaceae.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:49:43</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>Lamiac</oxy:oxy-comment-hl><oxy:oxy-range-start id="sc_17" hr_id="14"/><oxy:oxy-insert href="#sc_17" hr_id="14"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-content>insert</oxy:oxy-content><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:49:28</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-insert><oxy:oxy-insert-hl>e</oxy:oxy-insert-hl><oxy:oxy-range-end hr_id="14"/><oxy:oxy-comment-hl>ae</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="13"/></b>,
+      with approximately 900 species of shrubs, herbaceous perennials, and annuals. It is one of
+      three genera commonly referred to as sage. When used without modifiers, sage generally refers
+      to <b class="+ topic/ph hi-d/b ">Salvia officinalis</b> ("common sage"); however, it can be used with modifiers to refer
+      to any member of the genus. The ornamental species are commonly referred to by their
+      scientific name <b class="+ topic/ph hi-d/b ">Salvia</b>. The genus is distributed throughout the world, with the center
+      of diversity and origin appearing to be Central and South Western Asia, while nearly 500
+      species are native to Mexico and Central and South America.</p>
+    <p class="- topic/p "><image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Salvia.jpg" placement="inline" width="188" height="263" scale="75"/></p>
+    <p class="- topic/p ">The name is derived from the Latin <i class="+ topic/ph hi-d/i ">salvere</i> ("to save"), referring to the long-believed
+      healing properties of salvia. The Latin was corrupted to '<i class="+ topic/ph hi-d/i ">sauja</i>', to the French
+        '<i class="+ topic/ph hi-d/i ">sauge</i>', and to the old English '<i class="+ topic/ph hi-d/i ">sawge</i>', and eventually became the modern day
+        '<i class="+ topic/ph hi-d/i ">sage</i>'. Pliny the Elder was the first to use the Latin name salvia.</p>
+    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Salvia</b> species include annual, biennial, or perennial herbs, along with woody based
+      sub-shrubs. The stems are typically angled like other members in <b class="+ topic/ph hi-d/b ">Lamiaceae</b>. The flowers
+      are produced in spikes,
+      <oxy:oxy-range-start id="sc_18" hr_id="15"/><oxy:oxy-comment href="#sc_18" hr_id="15"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>Please add the term definition for "raceme" in Glossary.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:08:39</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>racemes</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="15"/>,
+      or
+      <oxy:oxy-range-start id="sc_19" hr_id="16"/><oxy:oxy-comment href="#sc_19" hr_id="16"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>We should add a link to "panicle" term definition.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:04:25</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>panicles</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="16"/>,
+      and generally produce a showy display with flower colors ranging from blue to red, with white
+      and yellow less common. The calyx is normally tubular or bell shaped, without bearded throats,
+      and divided into two parts or lips, the upper lip entire or three-toothed, the lower
+      two-cleft. The corollas are often claw shaped and are two-lipped with the upper lip entire or
+      notched and spreading. The lower lip typically has three lobes with the middle lobe longest.
+      The stamens are reduced to two short structures with anthers two-celled, the upper cell
+      fertile, and the lower imperfect. The flower styles are two-cleft. The fruits are smooth
+      nutlets and many species have a mucilaginous coating. Salvia species are used as food plants
+      by the larvae of some <b class="+ topic/ph hi-d/b ">Lepidoptera</b> (butterfly and moth) species including the
+      bucculatricid leaf-miner <b class="+ topic/ph hi-d/b ">Bucculatrix taeniola</b> which feeds exclusively on the genus and
+      the <b class="+ topic/ph hi-d/b ">Coleophora</b> case-bearers <b class="+ topic/ph hi-d/b ">C. aegyptiacae</b>, <b class="+ topic/ph hi-d/b ">C. salviella</b> (both feed
+      exclusively on <b class="+ topic/ph hi-d/b ">S. aegyptiaca</b>), <b class="+ topic/ph hi-d/b ">C. ornatipennella</b> and <b class="+ topic/ph hi-d/b ">C. virgatella</b> (both
+      recorded on <b class="+ topic/ph hi-d/b ">S. pratensis</b>).</p>
+    <p class="- topic/p ">The defining characteristic of the genus <b class="+ topic/ph hi-d/b ">Salvia</b> is the unusual <xref class="- topic/xref " href="#unique_11" keyref="pollination" type="glossentry"><?ditaot usertext?>pollination</xref> mechanism,
+      which consists of two stamens (instead of the typical four found in other members of the tribe
+        <b class="+ topic/ph hi-d/b ">Mentheae</b>) and the way the two stamens are connected to form a lever. When a
+      pollinator enters the flower for nectar, the lever activates causing the stamens to move and
+      the pollen to be deposited on the pollinator. When the pollinator withdraws from the flower,
+      the lever returns the stamens to their original position. As the pollinator enters another
+      flower of the same species, the stigma is placed in a general location that corresponds to
+      where the pollen was deposited on the pollinator's body. It is believed that this is a key
+      factor in the speciation of this large group of diverse plants. However, it now appears that
+      somewhat different versions of this lever mechanism have evolved in the tribe Mentheae, and
+      that <b class="+ topic/ph hi-d/b ">Salvia</b> is not monophyletic.</p>
+  </body>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_22" type="topic"><?ditaot gentext?><linktext class="- topic/linktext ">Chrysanthemum</linktext></link>
+  </related-links>
+</topic></concept><concept class="- topic/topic concept/concept " id="unique_24" nd:nd-id="winterFlowers" oid="winterFlowers">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FwinterFlowers.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Winter Flowers</title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Winter is the season of cold weather. The season occurs during December - February in
+            Northern
+            hemisphere<oxy:oxy-range-start id="sc_20" hr_id="17"/><oxy:oxy-delete-hl> </oxy:oxy-delete-hl><oxy:oxy-range-end hr_id="17"/><oxy:oxy-delete href="#sc_20" hr_id="17"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>Delete any extra spacing before and after punctuation marks.</oxy:oxy-comment-text><oxy:oxy-content> </oxy:oxy-content><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:41:26</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-delete>.
+            In the Southern hemisphere winter occurs during June - August. </p>
+        <p class="- topic/p ">Some of the flowers blooming
+            <oxy:oxy-range-start id="sc_21" hr_id="18"/><oxy:oxy-delete-hl> </oxy:oxy-delete-hl><oxy:oxy-range-end hr_id="18"/><oxy:oxy-delete href="#sc_21" hr_id="18"><oxy:oxy-author>Mary</oxy:oxy-author><oxy:oxy-comment-text>Also use a single space between words.</oxy:oxy-comment-text><oxy:oxy-content> </oxy:oxy-content><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:40:54</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-delete>in
+            winter are: Acashia, Alstromeria, Amaryllis, Carnation, Chrysanthemums, Cyclamen,
+            Evergreens, Gerbera Daisy, Ginger, Helleborus, Holly berry, Lily, Asiatic Lily, Casa
+            Blanca Lily,
+            <oxy:oxy-range-start id="sc_22" hr_id="19"/><oxy:oxy-comment href="#sc_22" hr_id="19"><oxy:oxy-author>John</oxy:oxy-author><oxy:oxy-comment-text>We should include one more topic with information about Narcissus.</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:46:36</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>Narcissus</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="19"/>,
+            Orchid, Pansy, Pepperberry, Phlox, Protea, Queen Ann's Lace,
+            <oxy:oxy-range-start id="sc_23" hr_id="20"/><oxy:oxy-comment href="#sc_23" hr_id="20"><oxy:oxy-author>Bob</oxy:oxy-author><oxy:oxy-comment-text>It's a good idea to add more plants (consider including also Roses).</oxy:oxy-comment-text><oxy:oxy-date>2012/05/10</oxy:oxy-date><oxy:oxy-hour>12:47:01</oxy:oxy-hour><oxy:oxy-tz>+03:00</oxy:oxy-tz></oxy:oxy-comment><oxy:oxy-comment-hl>Roses</oxy:oxy-comment-hl><oxy:oxy-range-end hr_id="20"/>,
+            Star of Bethlehem, Statice. </p>
+    </conbody>
+<topic class="- topic/topic " id="unique_25" nd:nd-id="gerbera" oid="gerbera">
+ <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fflowers%2Fgerbera.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Gerbera</title>
+ <body class="- topic/body ">
+  <p class="- topic/p "><i class="+ topic/ph hi-d/i ">From Wikipedia, the free encyclopedia.</i></p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gerbera</b><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid " id="d29e1318"/><opentopic-index:index.entry value="winter" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">winter</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid277399059" value="flowers:winter:" class="- index/refid " id="d29e1322"/><opentopic-index:index.entry value="gerbera" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">gerbera</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1778551047" value="flowers:winter:gerbera:" class="- index/refid " id="d29e1326"/></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry>
+   is a genus of ornamental plants from the sunflower family (<b class="+ topic/ph hi-d/b ">Asteraceae</b>). It was named in
+   honor of the German naturalist Traugott Gerber.</p>
+  <p class="- topic/p "><image class="- topic/image " href="file:/C:/projects/eXml/samples/dita/flowers/images/Gerbera.jpg" placement="inline" width="188" height="188" scale="75"/></p>
+  <p class="- topic/p ">It has approximately 30 species in the wild, extending to South America, Africa and tropical
+   Asia. The first scientific description of a <b class="+ topic/ph hi-d/b ">Gerbera</b> was made by J.D. Hooker in Curtis's
+   Botanical Magazine in 1889 when he described <b class="+ topic/ph hi-d/b ">Gerbera jamesonii</b>, a South African species
+   also known as <b class="+ topic/ph hi-d/b ">Transvaal daisy</b> or <b class="+ topic/ph hi-d/b ">Barberton Daisy</b>.</p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gerbera</b> species bear a large capitulum with striking, two-lipped ray florets in yellow,
+   orange, white, pink or red colors. The capitulum, which has the appearance of a single flower, is
+   actually composed of hundreds of individual flowers. The morphology of the flowers varies
+   depending on their position in the capitulum. The flowers can be as small as 7 cm (<b class="+ topic/ph hi-d/b ">Gerbera
+    mini 'Harley'</b>) in diameter or up to 12 cm (<b class="+ topic/ph hi-d/b ">Gerbera ‘Golden Serena’</b>).</p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gerbera</b> is very popular and widely used as a decorative garden plant or as cut flowers.
+   The domesticated <xref class="- topic/xref " href="#unique_20" keyref="cultivar" type="glossentry"><?ditaot usertext?>cultivars</xref> are mostly a result of a
+   cross between <b class="+ topic/ph hi-d/b ">Gerbera jamesonii</b> and another South African species <b class="+ topic/ph hi-d/b ">Gerbera
+    viridifolia</b>. The cross is known as <b class="+ topic/ph hi-d/b ">Gerbera hybrida</b>. Thousands of cultivars exist.
+   They vary greatly in shape and size. Colors include white, yellow, orange, red, and pink. The
+   center of the flower is sometimes black. Often the same flower can have petals of several
+   different colors. </p>
+  <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Gerbera</b> is also important commercially. It is the fifth most used cut flower in the
+   world (after rose, carnation, chrysanthemum, and tulip. It is also used as a model organism in
+   studying flower formation. <b class="+ topic/ph hi-d/b ">Gerbera</b> contains naturally occurring coumarin derivatives.</p>
+ </body>
+</topic></concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" oxy:topicref-class="+ map/topicref mapgroup-d/topichead " class="+ topic/topic pdf2-d/placeholder " id="d7e161"><title class="- topic/title ">Glossary</title><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_9" nd:nd-id="flowers.genus" oid="flowers.genus">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryGenus.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Genus</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A low-level taxonomic rank used in the classification of living and fossil organisms.
+        Other well-known taxonomic ranks are domain, kingdom, phylum, class, order, family, and
+        species, with <term class="- topic/term ">genus</term> fitting between family and species. The scientific name of
+        a genus may be called the generic name: it is always capitalized.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_11" nd:nd-id="flowers.pollination" oid="flowers.pollination">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryPollination.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Pollination</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><term class="- topic/term ">Pollination</term> is the process by which pollen is transferred in plants,
+        thereby enabling fertilisation and sexual reproduction. Pollination is a necessary step in
+        the reproduction of flowering plants, resulting in the production of offsprings that are
+        genetically diverse.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_10" nd:nd-id="flowers.sepal" oid="flowers.sepal">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossarySepal.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Sepal</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A <term class="- topic/term ">sepal</term> (from Latin <i class="+ topic/ph hi-d/i ">separatus</i> "separate" + <i class="+ topic/ph hi-d/i ">petalum</i> "petal")
+        is a part of the flower of flowering plants. <term class="- topic/term ">Sepals</term> in a "typical" flower are
+        green and lie under the more conspicuous petals. As a collective unit the sepals are called
+        the <term class="- topic/term ">calyx</term>, and the collection of petals is called the <term class="- topic/term ">corolla</term>.
+        Together, these two structures are known as the <term class="- topic/term ">perianth</term> of the flower. The
+        petals and sepals are usually differentiated into colorful petals and green sepals. The term
+            <term class="- topic/term ">tepal</term> is usually applied when the petals and sepals are not differentiated
+        and look similar or the petals are absent and the sepals are colorful. When the flower is in
+        bud, the sepals enclose and protect the more delicate floral parts within. Morphologically
+        they are modified leaves.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_13" nd:nd-id="flowers.rhizome" oid="flowers.rhizome">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryRhizome.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Rhizome</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A <term class="- topic/term ">rhizome</term> is a characteristically horizontal stem of a plant that is
+        usually found underground, often sending out roots and shoots from its nodes. Some plants
+        have rhizomes that grow above ground or that lie at the soil surface, including some Iris
+        species, and ferns, whose spreading stems are rhizomes. Rhizomes may also be referred to as
+        creeping rootstalks, or rootstocks.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_17" nd:nd-id="flowers.bulb" oid="flowers.bulb">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryBulb.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Bulb</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A <term class="- topic/term ">bulb</term> is an underground vertical shoot that has modified leaves (or
+        thickened leaf bases) that are used as food storage organs by a dormant plant.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_20" nd:nd-id="flowers.cultivar" oid="flowers.cultivar">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryCultivar.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Cultivar</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A <term class="- topic/term ">cultivar</term> is a cultivated plant that has been selected and given a
+        unique name because of its decorative or useful characteristics; it is usually distinct from
+        similar plants and when propagated it retains those characteristics. The word
+            <term class="- topic/term ">cultivar</term> is generally regarded as a portmanteau of "<b class="+ topic/ph hi-d/b ">culti</b>vated" and
+            "<b class="+ topic/ph hi-d/b ">var</b>iety", but could also be derived from "<b class="+ topic/ph hi-d/b ">culti</b>gen"
+        "<b class="+ topic/ph hi-d/b ">var</b>iety".</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_2" nd:nd-id="flowers.perennial" oid="flowers.perennial">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryPerennial.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Perennial</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A <term class="- topic/term ">perennial plant</term> or <term class="- topic/term ">perennial</term> is a plant that lives for
+        more than two years. When used by gardeners or horticulturists, this term applies
+        specifically to perennial herbaceous plants. Scientifically, woody plants like shrubs and
+        trees are also perennial in their habit.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_19" nd:nd-id="flowers.panicle" oid="flowers.panicle">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fconcepts%2FglossaryPanicle.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Panicle</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A <term class="- topic/term ">panicle</term> is a compound raceme, a loose, much-branched indeterminate
+        inflorescence with pedicellate flowers (and fruit) attached along the secondary branches (in
+        other words, a branched cluster of flowers in which the branches are racemes).</glossdef>
+</glossentry></topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic " id="unique_26" nd:nd-id="copyright" oid="copyright">
+    <title class="- topic/title " data-editlink="https://staging-webapp.sync.ro/oxygen-xml-web-author/app/oxygen.html?url=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Ftopics%2Fcopyright.dita&amp;ditamap=webdav-https%3A%2F%2Fstaging-webapp.sync.ro%2Foxygen-xml-web-author%2Fplugins-dispatcher%2Fwebdav-server%2Fdita%2Fflowers%2Fflowers.ditamap">Copyright</title>
+    <shortdesc class="- topic/shortdesc ">Legal-related information.</shortdesc><prolog class="- topic/prolog "><data class="- topic/data " name="wh-tile">
+        <data class="- topic/data " name="hide" value="yes"/>
+      </data></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Most of the information was taken from <xref class="- topic/xref " format="html" href="http://www.wikipedia.com" scope="external"><?ditaot usertext?>Wikipedia</xref>, the free encyclopedia.</p>
+    </body>
+</topic><opentopic-index:index.groups class="- index/groups " id="d29e1543"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">F</opentopic-index:label><opentopic-index:index.entry value="flowers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flowers</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2030001602" value="flowers:" class="- index/refid "/><opentopic-index:index.entry value="autumn" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">autumn</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1718684446" value="flowers:autumn:" class="- index/refid "><oxy:index-link href="#d29e1043" class="- index/link ">
+                  [d29e1043]
+                </oxy:index-link></opentopic-index:refID><opentopic-index:index.entry value="chrysanthemums" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">chrysanthemums</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1213009069" value="flowers:autumn:chrysanthemums:" class="- index/refid "><oxy:index-link href="#d29e1072" class="- index/link ">
+                  [d29e1072]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="salvia" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">salvia</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-312737880" value="flowers:autumn:salvia:" class="- index/refid "><oxy:index-link href="#d29e1161" class="- index/link ">
+                  [d29e1161]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry><opentopic-index:index.entry value="spring" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">spring</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1226130379" value="flowers:spring:" class="- index/refid "/><opentopic-index:index.entry value="iris" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">iris</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-786337380" value="flowers:spring:iris:" class="- index/refid "><oxy:index-link href="#d29e636" class="- index/link ">
+                  [d29e636]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="snowdrop" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">snowdrop</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid192743453" value="flowers:spring:snowdrop:" class="- index/refid "><oxy:index-link href="#d29e758" class="- index/link ">
+                  [d29e758]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry><opentopic-index:index.entry value="summer" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">summer</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1364769385" value="flowers:summer:" class="- index/refid "/><opentopic-index:index.entry value="gardenia" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">gardenia</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2101316732" value="flowers:summer:gardenia:" class="- index/refid "><oxy:index-link href="#d29e872" class="- index/link ">
+                  [d29e872]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="lilac" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">lilac</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1491525870" value="flowers:summer:lilac:" class="- index/refid "><oxy:index-link href="#d29e969" class="- index/link ">
+                  [d29e969]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry><opentopic-index:index.entry value="winter" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">winter</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid277399059" value="flowers:winter:" class="- index/refid "/><opentopic-index:index.entry value="gerbera" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">gerbera</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1778551047" value="flowers:winter:gerbera:" class="- index/refid "><oxy:index-link href="#d29e1326" class="- index/link ">
+                  [d29e1326]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">G</opentopic-index:label><opentopic-index:index.entry value="general" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">general</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1810371666" value="general:" class="- index/refid "/><opentopic-index:index.entry value="care" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">care</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2006103607" value="general:care:" class="- index/refid "/><opentopic-index:index.entry value="cultivation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">cultivation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-14441853" value="general:care:cultivation:" class="- index/refid "><oxy:index-link href="#d29e507" class="- index/link ">
+                  [d29e507]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry><opentopic-index:index.entry value="planting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">planting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-202786447" value="general:planting:" class="- index/refid "><oxy:index-link href="#d29e533" class="- index/link ">
+                  [d29e533]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">T</opentopic-index:label><opentopic-index:index.entry value="tasks" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">tasks</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-880871828" value="tasks:" class="- index/refid "/><opentopic-index:index.entry value="preparation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">preparation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2022612753" value="tasks:preparation:" class="- index/refid "><oxy:index-link href="#d29e282" class="- index/link ">
+                  [d29e282]
+                </oxy:index-link><oxy:index-link href="#d29e441" class="- index/link ">
+                  [d29e441]
+                </oxy:index-link><oxy:index-link href="#d29e516" class="- index/link ">
+                  [d29e516]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="pruning" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">pruning</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1946661473" value="tasks:pruning:" class="- index/refid "><oxy:index-link href="#d29e432" class="- index/link ">
+                  [d29e432]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>
