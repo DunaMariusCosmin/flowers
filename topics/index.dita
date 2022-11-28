@@ -8,7 +8,12 @@
     <p>The various climatic changes that occur in cyclic pattern are termed as 'Seasons'. There
       are four general seasons occurring on Earth - Spring, Summer, Autumn and Winter.</p>
     <p>Flowers and seasons are intimately bound to each other. Most of the flowers are
-      season-specific. However, some flowers are found throughout the year, not particularly
-      affected by changing seasons.</p>
+      season-specific:</p>
+    <ul id="ul_fst_gpz_qvb">
+      <li><xref href="../markdown/spring_flowers.md" format="markdown"></xref></li>
+      <li><xref href="../markdown/summer_flowers.md" format="markdown"></xref></li>
+      <li><xref href="../markdown/autumn_flowers.md" format="markdown"></xref></li>
+      <li><xref href="../markdown/winter_flowers.md" format="markdown"></xref></li>
+    </ul>
   </body>
 </topic>
