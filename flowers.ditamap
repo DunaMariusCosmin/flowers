@@ -5,7 +5,10 @@
   <topicref href="markdown/care_preparation.md" format="markdown"/>
   <topicref href="topics/index.dita" collection-type="sequence">
     <topicref href="markdown/spring_flowers.md" format="markdown"/>
-    <topicref href="markdown/summer_flowers.md" format="markdown"/>
+    <topicref href="concepts/summerFlowers.dita">
+      <topicref href="markdown/gardenia.md" format="markdown"/>
+      <topicref href="markdown/lilac.md" format="markdown"/>
+    </topicref>
     <topicref href="markdown/autumn_flowers.md" format="markdown"/>
     <topicref href="markdown/winter_flowers.md" format="markdown"/>
   </topicref>
