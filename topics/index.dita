@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="index">
-  <title>Flowers by Season</title>
-  <shortdesc>Flowers and seasons are intimately bound to each other. Most of the flowers are
-    season-specific.</shortdesc>
-  <body>
-    <p>The various climatic changes that occur in cyclic pattern are termed as 'Seasons'. There
-      are four general seasons occurring on Earth - Spring, Summer, Autumn and Winter.</p>
-    <p>Flowers and seasons are intimately bound to each other. Most of the flowers are
-      season-specific:</p>
-    <ul id="ul_fst_gpz_qvb">
-      <li><xref href="../markdown/spring_flowers.md" format="markdown"></xref></li>
-      <li><xref href="../concepts/summerFlowers.dita"></xref></li>
-      <li><xref href="../markdown/autumn_flowers.md" format="markdown"></xref></li>
-      <li/>
-    </ul>
-  </body>
+<topic id="flowers">
+    <title>Flowers</title>
+    <body>
+        <p>Flowers are the reproductive part of flowering plants. They come in a variety of shapes, sizes, and colors. Flowers have been admired and used by humans to beautify their environment, and also as objects of romance, ritual, religion, medicine, and as a source of food.</p>
+        <section>
+            <title>Types of Flowers</title>
+            <p>There are many types of flowers, including:</p>
+            <ul>
+                <li>Roses</li>
+                <li>Tulips</li>
+                <li>Daisies</li>
+                <li>Sunflowers</li>
+                <li>Orchids</li>
+            </ul>
+        </section>
+        <section>
+            <title>Parts of a Flower</title>
+            <p>A typical flower consists of four main parts:</p>
+            <ul>
+                <li>Sepals</li>
+                <li>Petals</li>
+                <li>Stamens</li>
+                <li>Pistils</li>
+            </ul>
+        </section>
+    </body>
 </topic>
