@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop action="flag" att="product" val="MyProd"
+        backcolor="blue" color="yellow" style="underline">
+    </prop>   
+    
+    <prop action="exclude" att="product" val="Hide"/>
+</val>
