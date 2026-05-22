@@ -5,14 +5,16 @@
     <shortdesc>When caring for your flower garden you want to feed your plants properly, control
         pests and weeds.</shortdesc>
     <body>
-        <p>When caring for your flower garden you want to feed your plants properly, control pests
-            and weeds. Good soil is a must to successful gardening, landscaping, and healthy
-            flowers. You have to
-            <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance the soil structure
-            with nutrients and regulate the pH to cover your plants'
-            needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
-            And above all, remember that many flower gardens fail because they just don't get enough
-            of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+        <p>Caring for your flower garden requires feeding your plants properly, managing pests, and
+            keeping weeds under control. Healthy soil is the foundation of successful gardening —
+            you must <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance its
+            structure with the right nutrients and regulate the pH to meet your plants' specific
+            needs. Fertilizers play a key role in providing essential nutrients; choose the
+            appropriate type and dosage based on your soil composition and the flowers you grow.
+            Keep in mind that over-fertilizing can have a negative impact on the environment by
+            causing nutrient runoff into waterways, so always apply fertilizers responsibly and
+            according to the manufacturer's guidelines. Above all, remember that consistent
+            attention and care are what truly make a flower garden thrive.</p>
         <p>
             <table frame="none">
                 <title>Flowers</title>
